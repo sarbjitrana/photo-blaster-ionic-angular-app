@@ -1,6 +1,6 @@
 # Build Your First Ionic App: Photo Blaster (Ionic Angular and Capacitor)
 
-Get started with Ionic by building a photo gallery app that runs on iOS, Android, and the web - with just one codebase. This is the complete project referenced in the ["Your First App: Angular" guide](https://ionicframework.com/docs/angular/your-first-app). Follow along to create a complete CRUD (create-read-update-delete) experience.
+Get started with Ionic by building a photo gallery app that runs on iOS, Android, and the web - with just one codebase. Follow along to create a complete CRUD (create-read-update-delete) experience.
 
 Powered by [Ionic Angular](https://ionicframework.com/docs/angular/overview) (web app) and [Capacitor](https://capacitor.ionicframework.com) (native app runtime).
 
