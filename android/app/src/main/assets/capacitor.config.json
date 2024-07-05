@@ -1,0 +1,10 @@
+{
+  "appId": "io.ionic.demo.pg.cap.ng",
+  "appName": "Photo Gallery Cap Ng",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {},
+  "linuxAndroidStudioPath": "/snap/android-studio/current/android-studio/bin/studio.sh"
+
+}
